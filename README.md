@@ -1,7 +1,8 @@
 
     A java program that simulates a closet of clothing items and creates outfits based on the chosen activities
 
-The program runs through a seven day cycle. Each day it asks what the tempurature is, and what activities you 
+This Was my first freedom java project in my first ever coding class during highschool.
+    The program runs through a seven day cycle. Each day it asks what the tempurature is, and what activities you 
 plan on doing and gives you a list to choose from. then for each activity in the day it compiles a list of 
 clothing items making up an outfit. 
     Each outfit falls under the category of what you are doing and what the tempurature is. it also will make 
