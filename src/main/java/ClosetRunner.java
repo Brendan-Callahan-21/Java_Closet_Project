@@ -15,11 +15,11 @@ public class ClosetRunner
         ClosetRunner cr = new ClosetRunner();        //was encountering a static reference err msg so created a new instance of the ClosetRunner class to use when calling methods in the same class
 
         String shirtFile, pantFile, shoeFile, hatFile, jacketFile;
-        shirtFile = "shirtList.csv";
-        pantFile = "pantList.csv";
-        shoeFile = "shoeList.csv";
-        hatFile = "hatList.csv";
-        jacketFile = "jacketList.csv";
+        shirtFile = "src\\main\\resources\\shirtList.csv";
+        pantFile = "src\\main\\resources\\pantList.csv";
+        shoeFile = "src\\main\\resources\\shoeList.csv";
+        hatFile = "src\\main\\resources\\hatList.csv";
+        jacketFile = "src\\main\\resources\\jacketList.csv";
 
         String[] fileArray = {shirtFile, pantFile, shoeFile, hatFile, jacketFile};
 
